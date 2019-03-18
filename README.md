@@ -19,8 +19,8 @@ docker-compose stop && docker-compose rm -f
 
 Now visit:
 
-* Adminer: http://[Host IP Address]:8888 (Then connect PostgreSQL Database with hostname `postgres`)]
-* Metabase: http://[Host IP Address]:3000
+* Adminer: `http://[Host IP Address]:8888` (Then connect PostgreSQL Database with hostname `postgres`)]
+* Metabase: `http://[Host IP Address]:3000`
 
 ## About the example dataset
 
